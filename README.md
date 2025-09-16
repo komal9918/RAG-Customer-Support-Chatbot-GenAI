@@ -68,5 +68,5 @@ The chatbot retrieves relevant knowledge from company documents  and combines it
 ## ⚙️ How To Run
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/komal9918/RAG-Customer-Support-Chatbot-GenAI/blob/main/customer_support_chatbot_rag.ipynb
 
