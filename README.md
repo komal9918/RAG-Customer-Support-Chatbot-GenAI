@@ -1,4 +1,4 @@
-# 🤖 Customer Support Chatbot using Retrieval-Augmented Generation (RAG)
+# 🤖  E-Commerce Customer Support Chatbot using Retrieval-Augmented Generation (RAG)
 
 ## 📌 Overview
 Customer support teams often handle thousands of **repetitive queries** related to orders, returns, payments, warranties, and policies.  
@@ -22,7 +22,7 @@ The chatbot is built with **LangChain, ChromaDB, and Google Generative AI (Gemin
 ---
 
 ## 🚀 Features
-- 📂 Load customer support manuals (PDF).  
+- 📂 Load customer support manuals   
 - ✂️ Chunk documents into retrievable embeddings.  
 - 🔍 Store and query with **Chroma vector database**.  
 - 🤖 Answer user queries using **Google Gemini LLM**.  
@@ -77,5 +77,4 @@ The chatbot is built with **LangChain, ChromaDB, and Google Generative AI (Gemin
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/yourusername/customer-support-chatbot-rag.git
-   cd customer-support-chatbot-rag
+   git clone (https://github.com/komal9918/RAG-Customer-Support-Chatbot-GenAI/blob/main/customer_support_chatbot_rag.py)
